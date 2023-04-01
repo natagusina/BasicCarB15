@@ -19,5 +19,11 @@ public class Main {
 
 
 
+      light neon = new light();
+      neon.color="red";
+      neon.size="15cm";
+      neon.intensity="7675lumin";
+
+
     }
 }
